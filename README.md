@@ -2,6 +2,8 @@
 
 Experimental script to generate the [Title Info Entry](https://www.3dbrew.org/wiki/Title_Database#Title_Info_Entry) for `title.db`.
 
+**Please do not make tutorials on this program yet. The tools are very early in development and not ready for general use.**
+
 Example for 0004000000164800 Pokémon Sun:
 ```
 python3 gen-title-info-entry.py \
